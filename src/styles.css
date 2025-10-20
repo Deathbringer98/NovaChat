@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card { @apply bg-slate-900/60 rounded-2xl border border-slate-800/60 shadow-glass backdrop-blur; }
+.gradient-text { background: linear-gradient(90deg, #ff5a5f 0%, #3fa8ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.scrollbar-thin::-webkit-scrollbar { width: 8px; }
+.scrollbar-thin::-webkit-scrollbar-thumb { background: rgba(148,163,184,0.35); border-radius: 9999px; }
+.hero-grid { background: radial-gradient(600px circle at 20% 10%, rgba(255,90,95,.15), transparent 40%), radial-gradient(600px circle at 80% 30%, rgba(63,168,255,.12), transparent 45%);}

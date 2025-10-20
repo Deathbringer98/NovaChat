@@ -1,7 +1,7 @@
 
 # NovaChat — Modern React + Tailwind chat UI
 
-A fresh, trendy rebrand of your chat website. Built with **Vite + React + Tailwind + Zustand** and a drop-in **Socket.IO** client.
+A fresh, trendy chat website. Built with **Vite + React + Tailwind + Zustand** and a drop-in **Socket.IO** client.
 
 ## Quickstart
 ```bash
